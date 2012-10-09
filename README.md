@@ -1,4 +1,4 @@
-cv_Cmadrid
+miCv
 ==========
 
 Autor César Augusto Madrid Cartuche
